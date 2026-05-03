@@ -1,0 +1,32 @@
+[package]
+name = "toolmind"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["json", "stream"] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+futures-util = "0.3"
+colored = "2"
+dotenvy = "0.15"
+wait-timeout = "0.2"
+dialoguer = "0.11"
+tokio-tungstenite = { version = "0.26", features = ["rustls-tls-webpki-roots"] }
+url = "2"
+sysinfo = "0.33"
+chrono = "0.4"
+
+[[bin]]
+name = "toolmind"
+path = "src/main.rs"
+
+[target.'cfg(windows)'.dependencies]
+image = { version = "0.25", default-features = false, features = ["png"] }
+screenshots = "0.8"
+windows = { version = "0.59", features = [
+ "Win32_Foundation",
+ "Win32_UI_WindowsAndMessaging",
+ "Win32_UI_Input_KeyboardAndMouse",
+] }

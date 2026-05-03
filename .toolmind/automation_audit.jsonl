@@ -1,0 +1,3 @@
+{"detail":"Sessão GUI armada. Tesseract NÃO disponível -> visão cega, rely em coordenadas e snapshots. Spotify não está aberto ainda. Vou tentar lançar via start do cmd.","level":"warn","step":"pre_flight_check","ts_ms":1777848123117}
+{"detail":"Janela 'Spotify Premium' detectada. Sem Tesseract, usando coordenadas absolutas aproximadas (260,50) para a barra de busca.","level":"info","step":"1 - Spotify aberto e em foco, iniciando automação GUI","ts_ms":1777848284619}
+{"detail":"Tentando detectar se resultados apareceram após digitação. Sem OCR, confiarei no título da janela e mudanças de retângulo.","level":"info","step":"verificar_resultado_pesquisa","ts_ms":1777848456983}
