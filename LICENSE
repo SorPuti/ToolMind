@@ -1,0 +1,124 @@
+LICENÇA DE USO RESTRITO — TOOLMIND
+Copyright (c) 2026 SorPuti. Todos os direitos reservados.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+                          TERMOS E CONDIÇÕES DE USO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+1. DEFINIÇÕES
+
+   "Software" refere-se ao código-fonte, binários compilados, documentação,
+   arquivos de configuração e quaisquer outros materiais incluídos neste
+   repositório, individualmente ou em conjunto, denominados "ToolMind".
+
+   "Titular" refere-se a SorPuti, detentor exclusivo dos direitos autorais
+   sobre o Software.
+
+   "Usuário" refere-se a qualquer pessoa física ou jurídica que acesse,
+   copie, utilize, modifique ou distribua o Software.
+
+   "Uso Pessoal e Educacional" refere-se à utilização do Software para fins
+   estritamente privados, não remunerados, de estudo, aprendizado ou pesquisa
+   acadêmica sem fins lucrativos.
+
+2. CONCESSÃO DE LICENÇA
+
+   O Titular concede ao Usuário uma licença limitada, não exclusiva,
+   intransferível e revogável para:
+
+   (a) visualizar, estudar e executar o Software para fins de Uso Pessoal
+       e Educacional;
+
+   (b) criar cópias locais do Software exclusivamente para fins de Uso
+       Pessoal e Educacional.
+
+   Esta licença não confere qualquer outro direito além dos expressamente
+   listados acima.
+
+3. RESTRIÇÕES — USO COMERCIAL PROIBIDO
+
+   É expressamente PROIBIDO, sem autorização prévia e por escrito do Titular:
+
+   (a) utilizar o Software, no todo ou em parte, para fins comerciais,
+       incluindo, mas não se limitando a: prestação de serviços remunerados,
+       integração em produtos pagos, licenciamento a terceiros, ou qualquer
+       atividade que gere receita direta ou indireta;
+
+   (b) vender, sublicenciar, alugar, arrendar ou transferir o Software
+       ou quaisquer direitos derivados a terceiros;
+
+   (c) incorporar o Software em produtos ou serviços comerciais, SaaS,
+       APIs pagas, ou plataformas de qualquer natureza que operem com
+       finalidade lucrativa;
+
+   (d) utilizar o nome, logotipo ou identidade do projeto "ToolMind" para
+       fins de promoção comercial sem autorização expressa do Titular.
+
+4. RESTRIÇÕES — USO ILEGAL PROIBIDO
+
+   É expressamente PROIBIDO utilizar o Software para qualquer atividade que:
+
+   (a) viole leis ou regulamentos aplicáveis em qualquer jurisdição,
+       incluindo, mas não se limitando a: acesso não autorizado a sistemas,
+       coleta ilegal de dados, vigilância não consentida, fraude,
+       distribuição de malware ou qualquer outro crime cibernético;
+
+   (b) cause dano a terceiros, a infraestruturas críticas ou ao meio digital;
+
+   (c) viole direitos de privacidade, propriedade intelectual ou quaisquer
+       outros direitos fundamentais de pessoas físicas ou jurídicas;
+
+   (d) seja empregada para criar, distribuir ou operar sistemas de automação
+       de ataques, spam, desinformação ou manipulação maliciosa.
+
+5. MODIFICAÇÕES E TRABALHOS DERIVADOS
+
+   Modificações do Software para Uso Pessoal e Educacional são permitidas,
+   desde que:
+
+   (a) os trabalhos derivados não sejam distribuídos publicamente sem
+       autorização escrita do Titular;
+
+   (b) este aviso de licença seja mantido integralmente em todas as cópias
+       e trabalhos derivados.
+
+6. DISTRIBUIÇÃO
+
+   A redistribuição do Software, modificado ou não, é PROIBIDA sem
+   autorização prévia e por escrito do Titular.
+
+7. ISENÇÃO DE GARANTIAS
+
+   O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" ("AS IS"), SEM
+   GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO
+   SE LIMITANDO A, GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO
+   ESPECÍFICO E NÃO VIOLAÇÃO DE DIREITOS. O TITULAR NÃO SE RESPONSABILIZA
+   POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS OU
+   CONSEQUENCIAIS DECORRENTES DO USO OU INCAPACIDADE DE USO DO SOFTWARE.
+
+8. RESCISÃO
+
+   Esta licença é rescindida automaticamente em caso de violação de qualquer
+   um de seus termos. Mediante rescisão, o Usuário deve imediatamente cessar
+   todo uso do Software e destruir todas as cópias em sua posse.
+
+9. LEI APLICÁVEL
+
+   Esta licença é regida pelas leis da República Federativa do Brasil.
+   Quaisquer disputas serão submetidas à jurisdição exclusiva dos tribunais
+   brasileiros competentes.
+
+10. CONTATO
+
+    Para solicitar permissões além do escopo desta licença (uso comercial,
+    parcerias, distribuição), entre em contato com o Titular por meio do
+    repositório oficial: https://github.com/SorPuti/ToolMind
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Ao acessar, copiar, modificar ou utilizar este Software, o Usuário declara
+ter lido, compreendido e concordado com todos os termos desta licença.
+
+═══════════════════════════════════════════════════════════════════════════════
